@@ -1,0 +1,29 @@
+[33mcommit c8d872e010b3a1f8bd89427410719b95243848b1[m
+Author: Diogo Alexandria <diogoagrasmsdc@gmail.com>
+Date:   Wed Sep 5 15:44:17 2018 -0300
+
+    Adicionando o diretório css/ e os arquivos header.css e body.css
+
+[33mcommit 28bce3da511d6c9bc9fa988b9260236a5d73eb9f[m
+Author: Diogo Alexandria <diogoagrasmsdc@gmail.com>
+Date:   Wed Sep 5 12:03:30 2018 -0300
+
+    Adicionando tag main e tag h2 para descrição
+
+[33mcommit 2410e36561f59547fb4d22be92d66af0352d606f[m
+Author: Diogo Alexandria <diogoagrasmsdc@gmail.com>
+Date:   Wed Sep 5 14:13:43 2018 -0300
+
+    Consertando header em redbone.html
+
+[33mcommit b345ef853a1f4e072f95d897ed7a22b1909e59b6[m
+Author: Diogo Alexandria <diogoagrasmsdc@gmail.com>
+Date:   Wed Sep 5 14:09:04 2018 -0300
+
+    Adicionando arquivo redbone.css
+
+[33mcommit 134ffc8924819aa804d186a95711d5246c946e08[m
+Author: Diogo Alexandria <diogoagrasmsdc@gmail.com>
+Date:   Wed Sep 5 13:47:31 2018 -0300
+
+    Primeiro commit - Envio da logo.png e do html inicial
