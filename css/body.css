@@ -1,0 +1,10 @@
+body{
+    background-color: black
+}
+main{
+    color: antiquewhite;
+    margin: 50px;
+}
+main h2{
+    font-size: 400%;
+}
