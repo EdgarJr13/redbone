@@ -1,15 +1,17 @@
 header{
     background-color: black;
+    margin: 127px;
 }
 header a{    
-    margin: 127px;
+    
     padding: 0;
     border: 0;
     color: antiquewhite;
     font-size: 200%;
 }
 header h1{
-    color: red;
-    text-align: center;
+    color: red;    
     font-size: 600%;
+    width: 800px;
+    padding:0 0 0 -20px;
 }
